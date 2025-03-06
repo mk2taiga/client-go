@@ -50,3 +50,5 @@ require (
 	sigs.k8s.io/json v0.0.0-20241010143419-9aa6b5e7a4b3 // indirect
 	sigs.k8s.io/yaml v1.4.0 // indirect
 )
+
+replace istio.io/api => github.com/mk2taiga/api v1.0.0
